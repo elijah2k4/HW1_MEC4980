@@ -129,7 +129,7 @@ void thirdLight() {
     delay(500); 
     digitalWrite(ledPin3, LOW); 
     delay(500);        
-    Serial.println("1 seconds to detonation.   ");
+    Serial.println("1 second to detonation.   ");
     digitalWrite(ledPin3, HIGH); 
     delay(500); 
     digitalWrite(ledPin3, LOW);   
